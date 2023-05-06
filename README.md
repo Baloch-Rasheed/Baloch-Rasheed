@@ -19,8 +19,8 @@ This is the place where I opensource stuff and break things :rofl:
 
 📊 &nbsp;**This week I spent my time on**
 
- - <img align="center" color="#02569B" src="/png/flutter.png" alt="spring_boot" height="30" width="40" />
- - <img align="center" src="/png/spring.png" alt="baloch" height="30" width="40" />
+ - <img align="center" color="#02569B" src="/png/flutter.png" alt="spring_boot" height="40" width="40" />
+ - <img align="center" src="/png/spring.png" alt="baloch" height="40" width="40" />
   
 ### ✨&nbsp; About Me
 
