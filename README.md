@@ -3,7 +3,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Spring Boot, Computer Vision
-- 📫 &nbsp;How to reach me: Gebon, Turbat
+
 - 👨‍💻 &nbsp;Read more about my projects at [Me](https://www.github.com/Baloch-Rasheed)
 - ⚡ &nbsp;Fun fact: I :heart: 🥳s and PC Gaming 🎮 
 
