@@ -24,5 +24,5 @@ This is the place where I opensource stuff and break things :rofl:
   
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
+I am a Mobile Developer with 1 year of experience in developing enterprise applications and open-source software.
 
